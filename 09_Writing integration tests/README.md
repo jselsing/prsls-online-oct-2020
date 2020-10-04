@@ -536,5 +536,3 @@ If we hadn't seeded the database with 8 restaurants, the tests would fail.
 How can we improve the tests (and maybe our implementation too?) so that they're self-contained and can be executed without making assumptions about what data we current have in the database?
 
 And, so far we only have 1 test case for each function. It's sufficient to illustrate how to write integration tests, but it's anything but comprehensive. What other test cases would you add?
-
-Please think about these questions, and let's discuss over the live Q&A session this week.

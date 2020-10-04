@@ -177,7 +177,7 @@ describe('Given an authenticated user', () => {
 })
 ```
 
-Wait a minute, we're mocking the AWS operations! Didn't you say not to do it last week?
+Wait a minute, we're mocking the AWS operations! Didn't you say not to do it?
 
 Yes, I did...
 
